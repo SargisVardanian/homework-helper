@@ -1,0 +1,5 @@
+lowercase
+lowercase.o
+makewords
+makewords.o
+*.o
